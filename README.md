@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PaslenAmari
-- 👀 I’m interested in DS, ML and data, AI, business analysis and atc
-- 🌱 I’m currently working as a lead business analyst using python and atc
+- 👀 I’m interested in DS, ML and data, AI, business analysis and etc
+- 🌱 I’m currently working as a lead business analyst using python and etc
 - 💞️ I’m looking into collaboration on nlp projects to gain insights and deeper understanding of this field, time-series analyses, application programming and etc
 - 📫 How to reach me: avearisg@gmail.com, [linkedin.com/in/gulnarasiraeva(https://ru.linkedin.com/in/gulnara-siraeva-a26973232)](https://ru.linkedin.com/in/gulnara-siraeva-a26973232), https://www.codewars.com/users/PaslenAmari, https://www.kaggle.com/siraevagm, https://t.me/PaslenSuavisAmari
