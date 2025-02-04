@@ -1,4 +1,7 @@
 I’m Siraeva Gulnara @PaslenAmari. 
+
+
+
 :rocket: Engineer with two publications in Geology. Studying for a master's degree on a program Big Data and Machine Learning in ITMO University. Fluent in English. Interested in applying time-series analysis and time-series forecasting & combining data from Oil and Gas Industry with machine learning algorithms.
 
 :watch: Interested in applying time-series analysis and time-series forecasting & combining data from Oil and Gas Industry with machine learning algorithms.
