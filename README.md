@@ -26,6 +26,12 @@ I’m Siraeva Gulnara @PaslenAmari.
 
 - 📫 How to reach me:
   Email: gmsiraeva@mail.ru or avearisg@gmail.com,
-  Linkedin: [linkedin.com/in/gulnarasiraeva(https://ru.linkedin.com/in/gulnara-siraeva-a26973232)](https://ru.linkedin.com/in/gulnara-siraeva-a26973232), 
+
+  
+  Linkedin: [linkedin.com/in/gulnarasiraeva(https://ru.linkedin.com/in/gulnara-siraeva-a26973232)](https://ru.linkedin.com/in/gulnara-siraeva-a26973232),
+
+  
   Contests: https://www.codewars.com/users/PaslenAmari, https://www.kaggle.com/siraevagm,
+
+  
   Messenger (Telegram): https://t.me/PaslenSuavisAmari
