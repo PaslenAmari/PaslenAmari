@@ -10,7 +10,7 @@ I’m Siraeva Gulnara @PaslenAmari.
 
 
 
-- :watch: Interested in applying time-series analysis and time-series forecasting & combining data from Oil and Gas Industry with machine learning algorithms.
+- :watch: Interested in applying time-series analysis and time-series forecasting & combining data from Oil and Gas Industry with machine learning algorithms & nlp tasks 
 
 
 
