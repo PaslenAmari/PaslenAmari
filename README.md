@@ -14,7 +14,7 @@ I’m Siraeva Gulnara @PaslenAmari.
 
 
 
-- :construction_worker: I’m currently working as the Head Business Analyst on analysis projects of gas industry.
+- :construction_worker: I’m currently working as the Analyst on analysis projects of financial industry.
 
 
 
