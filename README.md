@@ -14,12 +14,12 @@ I’m Siraeva Gulnara @PaslenAmari.
 
 
 
-- :construction_worker: I’m currently working as the Analyst on analysis projects of financial industry.
+- :construction_worker: I’m currently working as the Data Engineer on projects of financial industry.
 
 
 
 
-- :open_hands:Looking into collaboration on time-series projects to gain insights and deeper understanding of this field, clustering problem, application programming and etc.
+- :open_hands:Looking into collaboration on time-series projects to gain insights and deeper understanding of this field, nlp, mlops, application programming and etc.
 
 
 
